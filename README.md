@@ -14,4 +14,5 @@ Linux için:
 cd kodluyoruzilkrepo
 
 code .
-!(Lorem Picsum Gorsel)(https://picsum.photos/id/237/200/300)
+
+![Lorem Picsum Gorsel](https://picsum.photos/seed/picsum/200/300)
